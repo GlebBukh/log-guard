@@ -1,0 +1,14 @@
+Oct 19 10:15:01 server sshd[1201]: Failed password for root from 203.0.113.5 port 52211 ssh2
+Oct 19 10:15:03 server sshd[1201]: Failed password for root from 203.0.113.5 port 52212 ssh2
+Oct 19 10:15:05 server sshd[1201]: Failed password for invalid user admin from 203.0.113.5 port 52213 ssh2
+Oct 19 10:15:07 server sshd[1201]: Failed password for invalid user test from 203.0.113.5 port 52214 ssh2
+Oct 19 10:15:09 server sshd[1201]: Failed password for root from 203.0.113.5 port 52215 ssh2
+Oct 19 10:15:11 server sshd[1201]: Failed password for deploy from 203.0.113.5 port 52216 ssh2
+Oct 19 10:15:14 server sshd[1201]: Accepted password for deploy from 203.0.113.5 port 52217 ssh2
+Oct 19 11:02:44 server sshd[1310]: Failed password for gleb from 198.51.100.23 port 40100 ssh2
+Oct 19 11:02:51 server sshd[1310]: Accepted publickey for gleb from 198.51.100.23 port 40101 ssh2
+Oct 19 12:30:00 server sshd[1422]: Failed password for invalid user oracle from 192.0.2.77 port 61000 ssh2
+Oct 19 12:30:02 server sshd[1422]: Failed password for invalid user oracle from 192.0.2.77 port 61001 ssh2
+Oct 19 12:30:04 server sshd[1422]: Failed password for invalid user postgres from 192.0.2.77 port 61002 ssh2
+Oct 19 12:30:06 server sshd[1422]: Failed password for invalid user ubuntu from 192.0.2.77 port 61003 ssh2
+Oct 19 12:30:08 server sshd[1422]: Failed password for invalid user pi from 192.0.2.77 port 61004 ssh2
